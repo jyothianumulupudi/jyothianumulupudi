@@ -1,4 +1,4 @@
-<img src="https://thedatamonk.com/wp-content/uploads/2021/07/image-12.png" />
+<!--<img src="https://thedatamonk.com/wp-content/uploads/2021/07/image-12.png" /> -->
 <h1 align="center">Hi 👋, I'm Jyothi Anumulupudi</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
