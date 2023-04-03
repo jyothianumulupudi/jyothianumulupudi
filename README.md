@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🔭 I’m currently working on  **Machine Learning projects**
+- 🔭 I’m currently working on  **Power BI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyothianumulupudi?tab=repositories](https://github.com/jyothianumulupudi?tab=repositories)
 
-- 💬 Ask me about **Python, MySQL, PowerBI, Machine Learning**
+- 💬 Ask me about **Python, MySQL, PowerBI, Excel**
 
 - 👨‍ 3+ Years of experience as a Software Engineer.
 
