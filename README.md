@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyothianumulupudi?tab=repositories](https://github.com/jyothianumulupudi?tab=repositories)
 
-- 💬 Ask me about **Python, MySQL, PowerBI, Excel**
+- 💬 Ask me about **Python, MySQL, SQL Server, PowerBI, Excel**
 
 - 👨‍ 3+ Years of experience as a Software Engineer.
 
