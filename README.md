@@ -1,12 +1,12 @@
 <!--<img src="https://thedatamonk.com/wp-content/uploads/2021/07/image-12.png" /> -->
 <h1 align="center">Hi 👋, I'm Jyothi Anumulupudi</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothianumulupudi&label=Profile%20views&color=0e75b6&style=flat" alt="jyothianumulupudi" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🔭 I’m currently working on  **Power BI Projects**
+- 🔭 I’m currently working on  AI, Gen AI Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyothianumulupudi?tab=repositories](https://github.com/jyothianumulupudi?tab=repositories)
 
