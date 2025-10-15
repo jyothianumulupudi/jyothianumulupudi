@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothianumulupudi&label=Profile%20views&color=0e75b6&style=flat" alt="jyothianumulupudi" /> </p>
 
-- 🌱 I’m currently learning **Data Science**, **AI**, **Gen AI**
+- 🌱 I’m currently learning **Data Analytics**, **Data Science**, **AI**, **Gen AI**
 
-- 🔭 I’m currently working on  AI, Gen AI Projects.
+- 🔭 I’m currently working on  Power BI, AI, Gen AI Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyothianumulupudi?tab=repositories](https://github.com/jyothianumulupudi?tab=repositories)
 
