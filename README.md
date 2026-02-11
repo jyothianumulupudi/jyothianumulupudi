@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Completed learning in Data Analytics, Data Science, Artificial Intelligence  and currently seeking opportunities to apply my skills.<br>🔭 Worked on Power BI and AI/Gen AI projects, building practical, real-world solutions.<br>Explore all my projects here:<br>https://github.com/jyothianumulupudi?tab=repositories<br>💬 Ask me about Python, Excel, MySQL, Power BI, Machine Learning, Deep Learning, and AI.<br>👨‍💼 3+ years of experience as a Software Engineer, now transitioning into Data Analytics roles.<br>📫 Reach me at: jyothianumulapudi@gmail.com
+🌱 Completed learning in Data Analytics, Data Science, Artificial Intelligence  and currently seeking opportunities to apply my skills.<br>🔭 Worked on Power BI and AI/Gen AI projects, building practical, real-world solutions.<br> 📚 Explore all my projects here:<br>https://github.com/jyothianumulupudi?tab=repositories<br>💬 Ask me about Python, Excel, MySQL, Power BI, Machine Learning, Deep Learning, and AI.<br>👨‍💼 3+ years of experience as a Software Engineer, now transitioning into Data Analytics roles.<br>📫 Reach me at: jyothianumulapudi@gmail.com
 
 
 ## 🌐 Socials:
